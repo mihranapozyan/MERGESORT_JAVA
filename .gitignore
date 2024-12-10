@@ -1,0 +1,55 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# OS-specific files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# Log files
+*.log
+
+# Compiled class files
+*.class
+
+# Maven build directory
+/target/
+
+# Gradle build directory
+/.gradle/
+/build/
+
+# Eclipse project files (if you are switching between IDEs)
+/.settings/
+
+# JRebel (IDE plugin)
+.jrebel/
+
+# IntelliJ IDEA cache directories
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/.name
+/.idea/*.iml
+/.idea/*/workspace.xml
+/.idea/*/tasks.xml
+
+# Coverage
+/.idea/.idea/coverage/
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# User-specific files
+*.log
+*.sublime-workspace
+
+# JetBrains Rider (if using it alongside IntelliJ IDEA)
+.idea/.idea/*
+.idea/.idea/
+
+# Linux-specific files
+*~
